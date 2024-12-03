@@ -36,6 +36,7 @@ bld/
 [Ll]ogs/
 RandomizerLinuxx64/
 RandomizerWin64/
+*.zip
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
